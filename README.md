@@ -1,6 +1,6 @@
 # About
 This repository contains the projects done in the undergraduate course Programming I,
-DIM0176, at the Federal University of Rio Grande do Norte.
+DIM0176, at the Federal University of Rio Grande do Norte during the second semester of 2023.
 
 # List of projects
 - [Pig Dice](pig-dice)
